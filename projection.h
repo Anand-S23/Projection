@@ -24,5 +24,5 @@ struct Triangle {
 }; 
 
 struct Mesh { 
-    std::vector<Triangle> trianlges;
+    std::vector<Triangle> triangles;
 };
